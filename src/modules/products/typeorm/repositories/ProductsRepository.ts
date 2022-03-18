@@ -13,3 +13,5 @@ export class ProductRepository extends Repository<Product> {
         return product;
     }
 }
+
+export default ProductRepository;
